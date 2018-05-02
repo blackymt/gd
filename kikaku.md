@@ -1,11 +1,12 @@
 # 画面イメージ
 
-<img width="100px" height="auto" src="./0502_1.jpg">
+<img width="500px" height="auto" src="./0502_1.jpg">
 
 ガンダム
 
 # 操作方法
-- Enter->開始　　X->キャンセル　　Z->攻撃    SPACE->jump  
+- Enter->開始　　X->キャンセル　　Z->攻撃　　SPACE->jump  
+- 
 
 # ターゲットデバイス（PC　or　スマホ）
 -　PC
