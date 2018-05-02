@@ -1,7 +1,5 @@
 # 画面イメージ
 
-![画面イメージ](0502_1.jpg)
-
 <img width="100px" height="auto" src="./0502_1.jpg">
 
 ガンダム
